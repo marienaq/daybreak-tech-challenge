@@ -1,4 +1,14 @@
-Welcome to your new dbt project!
+# Overivew
+
+This is an example of solution code for a technical challenge I created for Daybreak Health for hiring an Analytics Engineer with data modeling skills.
+
+Instructions for the technical challenge were provided to the candidate separately and are in a private Google Doc.
+
+The grading rubric is also in a private Google doc.
+
+If you are interested in hiring me to build out a similar dbt-based interview challenge that provides a problem similar to real-world data modeling problems an Analytics Engineer working with BigData will encounter, email me - mariena@mellonhead.co
+
+# Initial Instructions from dbt
 
 ### Using the starter project
 
